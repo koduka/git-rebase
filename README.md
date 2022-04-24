@@ -5,6 +5,6 @@ worker1がコミットし、プッシュする。
 
 ```typescript
 function confirct(args: Arg[]) {
-    console.log('worker is commit & push!!')
+    console.log('But I am a worker2!!!!')
 }
 ```
